@@ -64,7 +64,7 @@
 
 ## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/V_KALAIVANI?theme=dark&font=Marcellus&ext=contest)
+![LeetCode Stats](https://leetcode.com/u/Kalaivani08/)
 
 ## 📊 GitHub Activity Graph
 
